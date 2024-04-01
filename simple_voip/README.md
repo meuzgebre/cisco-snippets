@@ -1,4 +1,6 @@
-```
+![Image](Screenshot.png)
+
+```bash
 Switch(config)#vlan 10
 Switch(config-vlan)#name data
 Switch(config-vlan)#vlan 100
